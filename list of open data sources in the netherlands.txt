@@ -1,0 +1,10 @@
+list of open data sources
+
+OV
+==
+http://www.openov.nl
+http://api.openov.nl
+
+AMSTERDAM CITY
+==============
+http://www.amsterdam.nl/parkeren-verkeer/open-data/overzicht/
